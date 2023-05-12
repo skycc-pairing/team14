@@ -1,2 +1,1 @@
-# team14
-SKYCC A팀
+# SKYCC A팀
